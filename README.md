@@ -1,16 +1,41 @@
-## Hi there 👋
+# Your Name
 
-<!--
-**ngyawkuan0801/ngyawkuan0801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profile
+**Headline:** Year 1 Computer Science Student  
+**Summary:**  
+I am a student interested in programming, digital logic, and software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Information
+**Education**
+- Universiti Teknologi Malaysia (UTM)
+- Bachelor of Computer Science
+
+**Position**
+- Student
+
+**Skills**
+- C++
+- GitHub
+- Digital Logic
+
+---
+
+## Recommended
+**Courses**
+- Programming Fundamentals
+- Digital Logic Design
+
+**Certificates**
+- (If any)
+
+---
+
+## Additional
+**Honors and Awards**
+- Dean List (if applicable)
+
+**Projects**
+- Digital Logic Project – designed circuit using D flip-flop
+- Recycling project
