@@ -1,7 +1,7 @@
 # Ng Yaw Kuan
 
 ## Profile
-**Headline:** First Year Data Engineering Student at Universiti Teknologi Malaysia (UTM)  
+ First Year Data Engineering Student at Universiti Teknologi Malaysia (UTM)  
 
 **Summary:**  
 I am a first-year Data Engineering student at Universiti Teknologi Malaysia (UTM) with strong academic foundations and active leadership experience. I am interested in data, programming, and technology, and I am continuously improving my technical and problem-solving skills through coursework and projects.
@@ -16,7 +16,7 @@ Bachelor of Computer Science (Data Engineering) (Current – Year 1)
 
 **Kolej Matrikulasi Perlis (2023–2024)**  
 - CGPA: 4.00  
-- MUET: Band 5  
+- MUET: Band 4.5 
 
 **Sekolah Tinggi Muar**  
 - SPM 2023: 1A+, 6A, 3A-
