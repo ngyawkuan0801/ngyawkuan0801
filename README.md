@@ -1,4 +1,5 @@
 # Ng Yaw Kuan
+![_MG_0110 Done 35 x50mm (1)](https://github.com/user-attachments/assets/58c2da57-e534-4e31-a154-5875e45e8f78)
 
 ## Profile
  First Year Data Engineering Student at Universiti Teknologi Malaysia (UTM)  
