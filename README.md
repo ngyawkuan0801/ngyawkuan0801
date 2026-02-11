@@ -73,7 +73,7 @@ Bachelor of Computer Science (Data Engineering) (Current – Year 1)
 
 ### Projects and Activities
 
-**Design Thinking Project **
+**Design Thinking Project**
 - Applied the Design Thinking methodology: Empathize, Define, Ideate, Prototype, and Test  
 - Identified real-world user problems through observation and interviews  
 - Proposed data-driven and technology-based solutions  
