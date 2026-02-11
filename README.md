@@ -1,8 +1,7 @@
 # Ng Yaw Kuan
 
 ## Profile
-**Headline:** First Year Engineering / Computer Science Student  
-**Summary:**  
+ First Year Engineering / Computer Science Student  
 Motivated student with strong academic performance and active involvement in leadership and extracurricular activities. Interested in technology, programming, and engineering, and continuously learning new technical and soft skills.
 
 ---
